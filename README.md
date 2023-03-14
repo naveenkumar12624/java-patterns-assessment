@@ -1,4 +1,4 @@
-# Assessment-13.03.2023
+# Patterns-Assessment-13.03.2023
 ## 1.Print the following pattern as output.
 ```
 ****
